@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height='30px'> Hello, World! Meu nome é Edson Urano!
 
-Atualmente estou cursando Ciência da Computação na Universidade de Fortaleza(3º semestre).
+Atualmente estou cursando Ciência da Computação na Universidade de Fortaleza (4º semestre).
 
 <!--
 **EdsonUr/EdsonUr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
